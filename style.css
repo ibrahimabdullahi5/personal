@@ -1,0 +1,8 @@
+.todo-app{
+    height: 100vh;
+}
+.categoryTag::after{
+    content: x;
+    font-size: 40px;
+    color: blue;
+}
